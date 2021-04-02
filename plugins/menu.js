@@ -110,7 +110,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       npmname: package.name,
       npmdesc: package.description,
       version: package.version,
-      github: package.homepage ? package.homepage.url || package.homepage : '[https://github.com/Sotravil/sotravil.bot]',
+      github: package.homepage ? package.homepage.url || package.homepage : '[https://github.com/JotaRoyal/JOTA]',
       exp, limit, name, weton, week, date, time, totalreg, rtotalreg,
       readmore: readMore
     }
