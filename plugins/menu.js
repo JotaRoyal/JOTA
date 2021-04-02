@@ -85,7 +85,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github: https://github.com/Sotravil/slbot
+│ Sígueme:https://www.instagram.com/jotaroyal/
 │ 
 ╰────
 %readmore`
