@@ -1,5 +1,5 @@
 {
-  "name": "sotravil bot",
+  "name": "JotaRoyal bot",
   "version": "1.4.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -19,12 +19,12 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Sotravil/slbot",
+  "homepage": "https://github.com/JotaRoyal/JOTA",
   "author": {
-    "name": "Sotravil"
+    "name": "JotaRoyal"
   },
   "repository": {
-    "url": "https://github.com/Sotravil/slbot.git"
+    "url": "https://github.com/JotaRoyal/JOTA"
   },
   "bugs": {
     "url": "https://github.com/Nurutomo/wabot-aq/issues"
